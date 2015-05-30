@@ -191,3 +191,7 @@ footer p {
         clear: both;
     }
 }
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
