@@ -195,3 +195,8 @@ footer p {
 .portfolio-item {
     margin-bottom: 25px;
 }
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
